@@ -1,5 +1,5 @@
 # pratikum pegantar pemrograman 
-<h1> Nma: Paulus Jemianus Ome </h1>
-<h1> Nim : 231031063 </h1>
-<h1> Prodi : Sistem Informasi B </h1>
+<div> Nma: Paulus Jemianus Ome </div>
+<div> Nim : 231031063 </>div
+<div> Prodi : Sistem Informasi B </div>
 * pratikum 3 : Pengenalan varibel `pratikum-b3.py`
